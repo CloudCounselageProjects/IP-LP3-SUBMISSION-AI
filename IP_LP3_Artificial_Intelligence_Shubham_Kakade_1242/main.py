@@ -23,11 +23,13 @@ photoL.pack(pady=3)
 
 def ask_from_bot() :
     query = textF.get()
-    answer_from_bot = bot.get_response(query)
-    msgs.insert(END, "you : " + query)
-    msgs.insert(END, "Bot : " + str(answer_from_bot))
-    textF.delete(0, END)
-    msgs.yview(END)
+    if query != "":
+        answer_from_bot = bot.get_response(query)
+        msgs.insert(END, "you : " + query)
+        msgs.insert(END, "Bot : " + str(answer_from_bot))
+        textF.delete(0, END)
+        msgs.yview(END)
+    msgs.insert(END, "Bot :Please Type your Query ")
 
 
 frame = Frame(main)
