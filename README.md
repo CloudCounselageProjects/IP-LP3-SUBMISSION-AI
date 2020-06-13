@@ -6,7 +6,7 @@
 
 **Find the python notebooks and scripts related to the above approaches in the respective directories.**
 
-*NOTE: Change the paths in scripts accordingly*
+*NOTE: Change the paths in scripts accordingly, since the code is developed on kaggle the paths are mentioned in reference to kaggle.*
 
 ### Links to the notebooks:
 The ipython-notebooks were made on kaggle whose links are given below:
