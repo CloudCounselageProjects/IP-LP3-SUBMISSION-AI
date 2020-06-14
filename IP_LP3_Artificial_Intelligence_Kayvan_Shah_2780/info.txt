@@ -1,0 +1,1 @@
+The directory consists of all the code regarding the different approaches and the web app.
