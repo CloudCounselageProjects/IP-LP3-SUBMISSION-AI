@@ -1,0 +1,214 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- goodbye
+- B_account
+- policy
+- CC
+- internship
+- IP
+- J_profile
+- browser
+- LP's
+- LP2
+- LP3
+- after_LP
+- after_liveproj
+- letter
+- work_report
+- LP_part
+- quiz
+- SM_task
+- efficiency
+- help
+- extend
+- clock
+- LP3_live
+- switch_tech
+- induction
+- Cloud_compute
+- submit
+- steps
+- affirm
+- deny
+- thanks
+responses:
+  utter_greet:
+  - text: Hello, I'm FAQBOT. Welcome to Cloud Counselage, How can I help you with
+      your questions?
+  utter_did_that_help:
+  - text: Hope that helped you..:)
+  utter_B_account:
+  - text: Go to https://cloudcounselage24.bitrix24.com/ On the Login page, In the,
+      ‘Enter the phone number or email’, type in your email id that you have registered
+      with Cloud Counselage and Click ‘Forgot Password’. In case the problem persists,
+      please write a mail to hrsupport@cloudcounselage.in
+  utter_policy:
+  - text: visit our website:https://www.cloudcounselage.com/
+  utter_CC:
+  - text: An IT & Management Consulting, Advisory & Career services company based
+      in Mumbai, run by certified professionals with over a decade of experience.
+      We help companies formulate strategies to leverage the power of technology and
+      grow their businesses exponentially. We also offer our own and our vendor partner
+      SaaS Cloud products as services for Technology, Education/ Learning, Job Portals,
+      Business Processes, e-Commerce, Digital Marketing, etc. We serve start-ups,
+      SMEs, large corporations, educational institutions and individuals. We also
+      offer Career Services for Students, Freshers & Young Professionals for winning
+      Careers into IT & Management. For more visit our website:https://www.cloudcounselage.com/
+  utter_internship:
+  - text: Please go through the mail from which you have accepted the invite and check
+      the task section as well.
+  utter_IP:
+  - text: Please visit the below given link- "https://www.youtube.com/watch?v=OnKfrQrEOrk&feature=emb_logo"
+      "https://www.youtube.com/watch?v=Hs9npUUIg4I&feature=emb_logo" Follow the protocol
+      shown in the videos.
+  utter_J_profile:
+  - text: Your job profile is 'Technology - Intern'; if you're in cloud computing
+      technology to update in your LinkedIn or resume, you can write as 'Cloud Computing
+      - Intern'.
+  utter_browser:
+  - text: Google chrome is recommended but if not working you can try with incognito
+      window and any other browser.
+  utter_LP's:
+  - text: The dates to begin the learning paths (LP) are- LP1 - 01/03/2020 LP2 - 18/03/2020
+      LP3 - 02/04/2020 All learning Paths (LP) are expected to be completed by the
+      interns before the first   week of June as Live Projects will begin in that
+      time frame.
+  utter_LP2:
+  - text: The main focus of LP2 is to provide you with a basic foundation of the technology
+      you're interested in. The training is also handpicked in such a way that they
+      enable you to work on LP3 assignments which interim gives you the beginning
+      to start your study for the selected technology and in no terms is the only/
+      final training you should look into. Please keep learning after your LP2 is
+      complete, that is the only way to grow in your technology of choice.
+  utter_LP3:
+  - text: LP3 will be assignment based and its execution and content vary from technology
+      to technology. This assignment will be like a mini-project for all interns in
+      a particular technology which will be verified by Cloud Counselage Project Managers.
+  utter_after_LP:
+  - text: We have provided our interns with preparatory leave from the exam season,
+      nevertheless, you are free to work on your LP3 assignment, but we suggest to
+      concentrate on your exams first. Your Live Projects will be given after the
+      first week of June.
+  utter_after_liveproj:
+  - text: Submit your project and once it's reviewed as successful, collect your internship
+      letter. Your internship is complete after this. There is no stipend for live
+      projects. If your work is sublime and we have a vacancy in the position you're
+      interested in, you may be offered a chance for interviews and can get an offer
+      letter from Cloud Counselage Pvt. Ltd.
+  utter_letter:
+  - text: This is a three (3) month internship conducted in the month of March, June
+      & July 2020. You will receive your internship experience letter in August during
+      the convocation only if you successfully submit your Live Project.
+  utter_work_report:
+  - text: In the menu select 'time and reports' ->worktime and then you could see
+      your worktime or click on this link once you’re logged in to Bitrix24; "https://cloudcounselage24.bitrix24.com/timeman/timeman.php"
+  utter_LP_part:
+  - text: LP1/ LP2/ LP3 is your preparation for the Live Project. All the phases LP1/
+      LP2/ LP3/ Live Project are a part of this internship."
+  utter_quiz:
+  - text: 'As mentioned in the video:https://www.youtube.com/watch?v=Hs9npUUIg4I&feature=emb_logo
+      Step1: Go to lp1 module Step2: Select module Step3: Put token (it will direct
+      you to the home screen if the token is correct) Step4: Again go to lp1 module
+      n select that module Step5: You will get the access by now Step6: Register there
+      (each time for every module) Step7: Give the quiz Step8: Logout'
+  utter_SM_task:
+  - text: Our team will verify and then only your task shall be accepted as completed.
+      Please wait till the verification's complete. And will review this task in May
+      2020.
+  utter_efficiency:
+  - text: Ensure that you have clicked ‘Start’ when you resume a task, the ‘Finish’
+      button gets active only after the task is started. Once you complete the task
+      you can then click on ‘Finish’ and then the efficiency is updated in the system.
+      However, please raise this issue with the Cloud Counselage HR, as they will
+      look at it on a case to case basis.
+  utter_help:
+  - text: As this is an internship you’re expected to do self-learning, mentorship
+      is not part of an internship. However, we have created forums to resolve your
+      doubts in the form of workgroups. As an intern ensure that you are part of relevant
+      workgroups, i.e. ‘202003 - IP’ and your resp. Technology workgroup. In case,
+      you are not a part of these workgroups, please reach out to ‘Cloud Counselage
+      HR’ on Bitrix24 Chat.
+  utter_extend:
+  - text: All our current interns if performing well in our internship programs can
+      be offered an opportunity to interview for various positions in Cloud Counsealge.
+      Many of our now full-time employees were interns in Cloud Counselage.
+  utter_clock:
+  - text: This could have an adverse effect on your internship, please contact Cloud
+      Counsealge HR and provide a genuine reason to miss clock in/ clock out. Also,
+      please start performing your clock in/ clock out now.
+  utter_LP3_live:
+  - text: Live Projects and LP3 will have only your part of technology even if there
+      are multiple technologies that are a part of the project, you will be working
+      only on the part that covers your technology."
+  utter_switch_tech:
+  - text: We do understand that you might be interested in other technologies and
+      are eager to learn more, but we have prescribed the technologies based on your
+      first inputs and cannot change your base technology. Nevertheless, you do have
+      the opportunity to go through the training of all the technologies."
+  utter_induction:
+  - text: We have created a separate page with a pre-recorded induction, please visit
+      it; "https://www.cloudcounselage.co.in/ipinduction"
+  utter_Cloud_compute:
+  - text: Yes, you'll need to complete the mandatory training as cloud computing is
+      fundamental to many technologies and this additional knowledge will help you
+      in your career.
+  utter_submit:
+  - text: Please push you to code in a public repo of your GitHub account if required
+      by your LP3 assignment.
+  utter_steps:
+  - text: According to the schedule of this internship program, some of you must have
+      completed steps 1 and 2 of your internship and some of you must be in the process
+      of completing step 2. Please note that as per the program schedule (https://www.cloudcounselage.com/ipmaharashtra/),
+      the following are the dates for entering step 3, wherein interns take preparatory
+      leaves for exams:a) 16th April 2020 - access given before 31st March 2020 b)
+      01st May 2020 - access given after 31st March 2020 Kindly note that we are in
+      touch with the DTE - Maharashtra for the exam schedules of various universities
+      in Maharashtra and the start of step 4 will be announced accordingly via individual
+      email and our social media pages. While step 3 is in progress, you do not need
+      to login to Bitrix24 or submit your timesheet until you are in step 4.
+  utter_affirm:
+  - text: Welcome :)
+  utter_help_rlpy:
+  - text: Great, carry on!
+  utter_goodbye:
+  - text: Bye, Have a good day :)
+  utter_no_ans:
+  - text: So you can visit our https://cloudcounselage.co.in/faq website or else gave
+      a message to ‘Cloud Counselage’ in Bitrix24.
+actions:
+- utter_LP's
+- utter_LP2
+- utter_LP3
+- utter_LP3_live
+- utter_LP_part
+- utter_SM_task
+- utter_affirm
+- utter_after_LP
+- utter_after_liveproj
+- utter_browser
+- utter_clock
+- utter_did_that_help
+- utter_efficiency
+- utter_extend
+- utter_goodbye
+- utter_greet
+- utter_help
+- utter_help_rlpy
+- utter_induction
+- utter_internship
+- utter_letter
+- utter_no_ans
+- utter_policy
+- utter_quiz
+- utter_steps
+- utter_submit
+- utter_switch_tech
+- utter_work_report
+- utter_B_account
+- utter_CC
+- utter_IP
+- utter_J_profile
+- utter_Cloud_compute
