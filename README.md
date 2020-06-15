@@ -1,7 +1,7 @@
 # IP-LP3-SUBMISSION-AI-Vikrant_Shah_1304
 
 ## Short Description of the files
-- **CCFAQBot.py** - Code for the project is present in it
+- **CCFAQBot.py** - Code for the project is present here
 - **intents.json** - Contains the dataset for the **Cloud Counselage Pvt. Ltd.** FAQ Bot
 - **CCFAQBot.tflearn** - Pre-trained model, to save the training time
 - **requirements.txt** - All the project dependencies is saved here
