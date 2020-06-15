@@ -9,7 +9,7 @@
     {
       "tag": "ques",
       "patterns": [ "I am not able to access my Bitrix24 account?", "not able to access", "Bitrix24","access issue" ],
-      "responses": [ " Go to ","link","https://cloudcounselage24.bitrix24.com/" ,"On the Login page, In the, Enter the phone number or email, type in your email id that you have registered with Cloud Counselage and Click Forgot Password. In case the problem persists, please write a mail to hrsupport@cloudcounselage.in", "Please visit the Cloud Counselage Website" ],
+      "responses": [ " Go to https://cloudcounselage24.bitrix24.com/, On the Login page, In the, Enter the phone number or email, type in your email id that you have registered with Cloud Counselage and Click Forgot Password. In case the problem persists, please write a mail to hrsupport@cloudcounselage.in", "Please visit the Cloud Counselage Website" ],
       "context_set": ""
     },
 
@@ -271,7 +271,7 @@
     {
       "tag": "message",
       "patterns": [ "Not able to see the task as not part of the IP workgroup. ", "IP Workgroup" ],
-      "responses": [ "Please message ‘Cloud Counselage HR’ in Bitrix24 " ],
+      "responses": [ "Please message Â‘Cloud Counselage HRÂ’ in Bitrix24 " ],
       "context_set": ""
     },
     {
@@ -283,7 +283,7 @@
     {
       "tag": "weekly",
       "patterns": [ "How can we check our weekly hours? ", "Check weekly hours" ],
-      "responses": [ "In the menu select 'time and reports' ->worktime and then you could see your worktime or click on this link once you’re logged in to Bitrix24; https://cloudcounselage24.bitrix24.com/timeman/timeman.php" ],
+      "responses": [ "In the menu select 'time and reports' ->worktime and then you could see your worktime or click on this link once youÂ’re logged in to Bitrix24; https://cloudcounselage24.bitrix24.com/timeman/timeman.php" ],
       "context_set": ""
     },
     {
@@ -308,7 +308,7 @@
       "tag": "provide",
       "patterns": [ "Can I do certification for the training provided in LP2?","Certification in LP2" ],
       "responses": [
-        "Yes, Cloud Counselage has purposefully partnered with Edureka so as to enable our interns to get the advantage of the corporate benefits at 'no profit no loss' basis for Cloud Counselage, that we receive from the partnership. Being our interns, you can get huge discounts on the certifications you choose to enrol for through Cloud Counselage and Edureka. In case you want to know more about the discounts offered, please reach out to ‘Cloud Counselage HR’ or write to hrsupport@cloudcounselage.in."
+        "Yes, Cloud Counselage has purposefully partnered with Edureka so as to enable our interns to get the advantage of the corporate benefits at 'no profit no loss' basis for Cloud Counselage, that we receive from the partnership. Being our interns, you can get huge discounts on the certifications you choose to enrol for through Cloud Counselage and Edureka. In case you want to know more about the discounts offered, please reach out to Â‘Cloud Counselage HRÂ’ or write to hrsupport@cloudcounselage.in."
       ],
       "context_set": ""
 
@@ -340,7 +340,7 @@
     {
       "tag": "when",
       "patterns": [ "By when will we receive access to Bitrix24?", "receive access" ],
-      "responses": [ "If you have submitted the ‘New Joinee Form’ after the 1st of March, please wait till the 31st of March to receive your access." ],
+      "responses": [ "If you have submitted the Â‘New Joinee FormÂ’ after the 1st of March, please wait till the 31st of March to receive your access." ],
       "context_set": ""
     },
     {
@@ -352,7 +352,7 @@
     {
       "tag": "induction",
       "patterns": [ "Is the induction online or offline?", "induction", "Explain induction" ],
-      "responses": [ "As a precautionary measure to safeguard our intern’s health, we have decided to conduct all the inductions online." ],
+      "responses": [ "As a precautionary measure to safeguard our internÂ’s health, we have decided to conduct all the inductions online." ],
       "context_set": ""
     },
     {
@@ -370,7 +370,7 @@
     {
       "tag": "doubt",
       "patterns": [ "Will you provide mentorship or doubt clearing sessions in this internship?", "mentorship", "doubt session" ],
-      "responses": [ "As this is an internship you’re expected to do self-learning, mentorship is not part of an internship. However, we have created forums to resolve your doubts in the form of workgroups. As an intern ensure that you are part of relevant workgroups, i.e. 202003 - IP  and your resp. Technology workgroup. In case, you are not a part of these workgroups, please reach out to Cloud Counselage HR on Bitrix24 Chat." ],
+      "responses": [ "As this is an internship youÂ’re expected to do self-learning, mentorship is not part of an internship. However, we have created forums to resolve your doubts in the form of workgroups. As an intern ensure that you are part of relevant workgroups, i.e. 202003 - IP  and your resp. Technology workgroup. In case, you are not a part of these workgroups, please reach out to Cloud Counselage HR on Bitrix24 Chat." ],
       "context_set": ""
     },
     {
@@ -394,13 +394,13 @@
     {
       "tag": "can",
       "patterns": [ "Can we extend this internship? ", "Internship extension" ],
-      "responses": [ "Yes, you can extend your internship by being part of our other online programs like, ‘Online Career Program’." ],
+      "responses": [ "Yes, you can extend your internship by being part of our other online programs like, Â‘Online Career ProgramÂ’." ],
       "context_set": ""
     },
     {
       "tag": "work",
       "patterns": [ "If we are working on more than one technology, are those technologies added to the certificate? ", "Will we recieve certificates for more then technology" ],
-      "responses": [ "You are not restricted from doing the training of other technologies but you will only be given an internship certificate of the technology you’re selected for." ],
+      "responses": [ "You are not restricted from doing the training of other technologies but you will only be given an internship certificate of the technology youÂ’re selected for." ],
       "context_set": ""
     },
     {
@@ -460,7 +460,7 @@
     {
       "tag": "appointment",
       "patterns": [ "I have got another attachment called NONAME or WINDAT with my Appointment letter", "what should I do about it", "Will it cause any harm?" ],
-      "responses": [ "We have observed that there is such an attachment for a few mailing service providers like Gmail and yahoo, please ignore this attachment. It won’t cause any harm to your system." ],
+      "responses": [ "We have observed that there is such an attachment for a few mailing service providers like Gmail and yahoo, please ignore this attachment. It wonÂ’t cause any harm to your system." ],
       "context_set": ""
     },
     {
