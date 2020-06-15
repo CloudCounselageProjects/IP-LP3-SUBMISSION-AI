@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\CCFAQBot\\CCFAQBot.tflearn"
+all_model_checkpoint_paths: "C:\\CCFAQBot\\CCFAQBot.tflearn"
