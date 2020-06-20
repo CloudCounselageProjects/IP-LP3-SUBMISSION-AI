@@ -1,0 +1,6 @@
+First use command pip install -r requirements.txt to install all required dependency 
+
+The bot is allready trained just run main.py and bot will start working .
+if the bot do not not understand something it will return "I am baby bot still learning, I din't got that"
+
+Bot can be trained again and again to improve accuaracy 
